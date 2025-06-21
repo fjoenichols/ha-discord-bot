@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM docker pull python:3-alpine3.22
 
 WORKDIR /app
 
