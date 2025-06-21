@@ -1,4 +1,4 @@
-FROM docker pull python:3-alpine3.22
+FROM python:3-alpine3.22
 
 WORKDIR /app
 
